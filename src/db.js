@@ -204,7 +204,7 @@ const instrumentals = [
     url: 'https://res.cloudinary.com/chidieberewaaw/video/upload/v1645537759/file_example_MP3_1MG_mpdxhp.mp3',
     producer: 'David Saturn',
     btm: 29,
-    genres: 'blues',
+    genre: 'blues',
     mood: 'happy'
   }
 ]
