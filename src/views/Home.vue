@@ -97,7 +97,7 @@
                 <v-col cols="12" lg="5" md="5" class="pt-6">
                   <av-waveform
                     audio-class="cusAudio"
-                    :audio-src="'https://res.cloudinary.com/chidieberewaaw/video/upload/v1645537759/file_example_MP3_1MG_mpdxhp.mp3'"
+                    :audio-src="item.url"
                     :canv-width="$vuetify.breakpoint.mobile ? 270 : 500"
                   ></av-waveform>
                   <v-btn class="ma-2" outlined color="green lighten-2" :to="`licensing/${item.id}`">

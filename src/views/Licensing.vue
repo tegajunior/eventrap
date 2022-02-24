@@ -1,6 +1,6 @@
 <template>
   <v-container fluid class="align-center">
-    <h1 class="text-h4 mb-6">Congratulations for finding this beat!</h1>
+    <h1 class="text-h6 text-sm-h4 mb-6">Congratulations for finding this beat!</h1>
     <small class="green--text custBeat" v-if="selectedBeat">{{ selectedBeat.label }}</small
     ><v-icon color="green">mdi-music</v-icon>
     <v-row class="align-center mt-6">

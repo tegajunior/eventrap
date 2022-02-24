@@ -188,6 +188,24 @@ const instrumentals = [
     mood: 'happy',
     producer: 'Baba Brinkman',
     btm: 65
+  },
+  {
+    id: 22,
+    label: 'Hypothesis',
+    url: 'https://res.cloudinary.com/chidieberewaaw/video/upload/v1645622321/Hypothesis_1_Instr_Master_zremws.wav',
+    genre: 'blues',
+    mood: 'party',
+    btm: 69,
+    producer: 'Kelly Rochi'
+  },
+  {
+    id: 23,
+    label: 'Africa Love',
+    url: 'https://res.cloudinary.com/chidieberewaaw/video/upload/v1645537759/file_example_MP3_1MG_mpdxhp.mp3',
+    producer: 'David Saturn',
+    btm: 29,
+    genres: 'blues',
+    mood: 'happy'
   }
 ]
 export default instrumentals
